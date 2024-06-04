@@ -1,0 +1,41 @@
+ 
+#toastify {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    font-weight: bold;
+    background-color: #99066f;
+    color: #f6d7d7;
+    padding: 12px;
+    border-radius: 15px;
+    
+}
+
+#button {
+    font-weight: bold;
+    background-color: #99066f;
+    color: #f6d7d7;
+    left: 650px;
+    padding: 12px;
+    border-radius: 15px;
+    position: fixed;
+    margin-top: 20px;
+    
+    
+
+
+}
+
+.show {
+    visibility: visible;
+}
+
+.close {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 20px;
+    float: right;
+    margin-left: 10px;
+    cursor: pointer;
+}
